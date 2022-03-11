@@ -1,0 +1,16 @@
+{
+    "name": "Petro",
+    "alias": "petro",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Petro\\Providers\\PetroServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

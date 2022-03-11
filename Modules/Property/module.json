@@ -1,0 +1,13 @@
+{
+    "name": "Property",
+    "alias": "property",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Property\\Providers\\PropertyServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

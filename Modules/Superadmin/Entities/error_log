@@ -1,0 +1,56 @@
+[20-Apr-2021 18:22:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Superadmin/Entities/Package.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Superadmin/Entities/Package.php on line 8
+[20-Apr-2021 18:25:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Superadmin/Entities/GiveAwayGift.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Superadmin/Entities/GiveAwayGift.php on line 7
+[20-Apr-2021 18:25:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Superadmin/Entities/EditAccountEntry.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Superadmin/Entities/EditAccountEntry.php on line 7
+[20-Apr-2021 18:26:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Superadmin/Entities/FamilySubscription.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Superadmin/Entities/FamilySubscription.php on line 7
+[20-Apr-2021 18:26:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Superadmin/Entities/TankDipChartDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Superadmin/Entities/TankDipChartDetail.php on line 7
+[20-Apr-2021 18:26:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Superadmin/Entities/Referral.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Superadmin/Entities/Referral.php on line 7
+[20-Apr-2021 18:27:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Superadmin/Entities/HelpExplanation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Superadmin/Entities/HelpExplanation.php on line 7
+[20-Apr-2021 18:27:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Superadmin/Entities/ModulePermissionLocation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Superadmin/Entities/ModulePermissionLocation.php on line 7
+[20-Apr-2021 18:28:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Superadmin/Entities/TankDipChart.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Superadmin/Entities/TankDipChart.php on line 7
+[20-Apr-2021 18:28:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Superadmin/Entities/ReferralGroup.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Superadmin/Entities/ReferralGroup.php on line 7
+[20-Apr-2021 18:29:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Superadmin/Entities/EditContactEntry.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Superadmin/Entities/EditContactEntry.php on line 7
+[20-Apr-2021 18:30:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Superadmin/Entities/PayOnline.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Superadmin/Entities/PayOnline.php on line 7
+[29-Apr-2021 00:31:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Superadmin/Entities/ReferralStartingCode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Superadmin/Entities/ReferralStartingCode.php on line 7
+[29-Apr-2021 09:49:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Superadmin/Entities/Subscription.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Superadmin/Entities/Subscription.php on line 10

@@ -1,0 +1,168 @@
+<?php
+
+return [
+
+    /*
+    |--------------------------------------------------------------------------
+    | Ran Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines are used for Ran Moudle related operations.
+    |
+    */
+
+    'ran' => 'Ran',
+    'gold' => 'Gold',
+    'gold_grade' => 'Gold Grade',
+    'all_gold_grades' => 'All Gold Grades',
+    'date_range' => 'Date Range',
+    'add' => 'Add',
+
+    'date_and_time' => 'Date & Time',
+    'gold_grad_kt' => 'Gold Grade(KT)',
+    'last_gold_purity' => 'Last Gold Purity',
+    'current_gold_purity' => 'Current Gold Purity',
+    'created_by' => 'Created By',
+    'grade_name' => 'Grade Name',
+    'gold_purity' => 'Grade Purity',
+    'add_gold_grade' => 'Add Gold Grade',
+    'edit_gold_grade' => 'Edit Gold Grade',
+
+    'gold_grade_create_success' => 'Gold Grade created succuessfully',
+    'gold_grade_update_success' => 'Gold Grade updated succuessfully',
+    'gold_grade_delete_success' => 'Gold Grade deleted succuessfully',
+
+    'gold_prices' => 'Gold Prices',
+    'all_gold_prices' => 'All Gold Prices',
+    'add_gold_price' => 'Add Gold Price',
+    'edit_gold_price' => 'Edit Gold Price',
+    'rate_per_gram' => 'Rate Per Gram',
+    'gold_grade_and_prices' => 'Gold Grade & Prices',
+
+    'gold_price_create_success' => 'Gold Price created succuessfully',
+    'gold_price_update_success' => 'Gold Price updated succuessfully',
+    'gold_price_delete_success' => 'Gold Price deleted succuessfully',
+
+    'please_select' => 'Please Select',
+    'production' => 'Production',
+    'work_order' => 'Work Order',
+    'add_work_order' => 'Add Work Order',
+    'receive_work_order' => 'Receive Work Order',
+    'list_work_order' => 'List Work Order',
+    'add_production' => 'Add Production',
+    'all_your_list_productions' => 'List all your production',
+    'add_production' => 'Add production',
+    'reference_no' => 'Reference No',
+    'busines_locations' => 'Business Locations',
+    'gold_smith' => 'Gold Smith',
+    'category_type' => 'Category Type',
+    'product_qty' => 'Product Quantity',
+    'wastage_per_8_g' => 'Wastage per 8g',
+    'wastage_per_8_gin' => 'Wastage per 8g(in gm)',
+    'total_product_gold_weight' => 'Total Product Gold Weight -g',
+    'total_stone_other_weight' => 'Total Stone - Other Weight -g',
+    'wastage_calculation' => 'Wastage Calculation',
+    'receiving_store' => 'Receiving Store',
+    'total_gold_wastage' => 'Total Gold Wastage',
+    'total_goldsmith_in_g' => 'Total GlodSmith in g(product & wastage)',
+    'labour_cost' => 'Labour Cost',
+    'labour_cost_total' => 'Labour Cost Total',
+    'design_cost' => 'Design Cost',
+    'stone_cost' => 'Stone Cost',
+    'other_cost' => 'Other Cost',
+    'add_other_cost' => 'Add Other Cost',
+    'cost_name' => 'Cost Name',
+    'cost' => 'Cost',
+    'production_add_success' => 'Production added succuessfully',
+    'production_update_success' => 'Production updated succuessfully',
+    'production_delete_success' => 'Production deleted succuessfully',
+    
+    
+    'goldsmith' => 'Goldsmith',
+    'goldsmith_wastage' => 'Goldsmith Wastage',
+    'goldsmith_wastage_details' => 'Goldsmith Wastage Details',
+    'add_goldsmith' => 'Add Goldsmith',
+    'edit_goldsmith' => 'Edit Goldsmith',
+    'name' => 'Name',
+    'email' => 'Email',
+    'mobile' => 'Mobile',
+    'address' => 'Address',
+    'landline' => 'Land Phone Number',
+    'dob' => 'DOB',
+    'employee_number' => 'Employee Number',
+    'opening_gold_qty' => 'Opening Gold Qty',
+    'opening_qty' => 'Opening Qty',
+    'all_your_list_goldsmiths' => 'List all your goldsmiths',
+    'goldsmith_create_success' => 'GoldSmith created succuessfully',
+    'goldsmith_update_success' => 'GoldSmith updated succuessfully',
+    'goldsmith_delete_success' => 'GoldSmith deleted succuessfully',
+    
+    'wastages' => 'Wastages',
+    'category' => 'Category',
+    'add_wastage' => 'Add Wastage',
+    'edit_wastage' => 'Edit Wastage',
+    'sub_category' => 'Sub Category',
+    'wastage_form_no' => 'Wastage Form No',
+    'wastage_per_8_g' => 'Wastage (g) per 8 g',
+    'user' => 'User',
+    'business_location' => 'Business Location',
+    'all_your_list_wastage' => 'List all your wastage',
+    'wastage' => 'Wastage',
+    'wastage_create_success' => 'Wastage created succuessfully',
+    'wastage_update_success' => 'Wastage updated succuessfully',
+    'wastage_delete_success' => 'Wastage deleted succuessfully',
+    
+    'service' => 'Service',
+    'non_inventory' => 'Non Inventory',
+    'reference' => 'Reference',
+    'qty' => 'Qty',
+    'total_product' => 'Total Product',
+    'other_weight' => 'Other Weight',
+    'auto_calculation' => 'Auto Calculation',
+    'total_gold_waste' => 'Total Gold Waste',
+    'date' => 'Date',
+    'work_order_no' => 'Work Order No',
+    'order_delivery_date' => 'Order Delivery Date',
+    'note' => 'Note',
+    'customer_order_no' => 'Customer Order No',
+    'customer' => 'Customer',
+    'item' => 'Item',
+    'required_qty' => 'Required Qty',
+    'weight_showroom_product' => 'Weight Showroom Product',
+    'required_unit_weight' => 'Required Unit Weight',
+    'gold_qty_for_goldsmith' => 'Gold Qty for Goldsmith in 22 kt (g)',
+    
+    'work_order_add_success' => 'Work Order added succuessfully',
+    'work_order_update_success' => 'Work Order updated succuessfully',
+    'work_order_delete_success' => 'Work Order deleted succuessfully',
+    
+    'received_work_order_no' => 'Received Work Order No.',
+    'edit_work_order' => 'Edit Work Order',
+    'all_your_work_order' => 'All your work order',
+    'all_your_received_work_order' => 'All your receive work order',
+    'receive_work_order_no' => 'Receive Work Order No',
+    'receiving_store' => 'Receiving Store',
+    'item_details' => 'items Details',
+    'total_stone_weight' => 'Total Stone Weight',
+    'total_wastage' => 'Total Wastage',
+    'wastage_per_8g' => 'Wastage per 8 g',
+    'received_weight_for_all_items' => 'Received Weight for all items',
+    'received_qty' => 'Received Qty',
+    'required_qty' => 'Required Qty',
+    'required_item_weight' => 'Required Item Weight',
+    'item_weight' => 'Item Weight (g)',
+    'add_receive_work_order' => 'Add Reveive Work Order',
+    'current_weight' => 'Current Weight',
+    'unit_weight' => 'Unit Weight',
+    'total_weight_g' => 'Total Weight (g)',
+    
+    'receive_work_order_add_success' => 'Receive Work Order added succuessfully',
+    'receive_work_order_update_success' => 'Receive Work Order updated succuessfully',
+    'receive_work_order_delete_success' => 'Receive Work Order deleted succuessfully',
+
+
+
+
+
+
+];

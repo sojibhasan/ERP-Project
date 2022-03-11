@@ -1,0 +1,16 @@
+{
+    "name": "TasksManagement",
+    "alias": "tasksmanagement",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\TasksManagement\\Providers\\TasksManagementServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

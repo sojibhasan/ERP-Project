@@ -1,0 +1,24 @@
+[26-Apr-2021 13:43:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Ezyboat/Entities/Crew.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Ezyboat/Entities/Crew.php on line 7
+[26-Apr-2021 15:08:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Ezyboat/Entities/Fleet.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Ezyboat/Entities/Fleet.php on line 7
+[27-Apr-2021 07:17:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Ezyboat/Entities/IncomeSetting.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Ezyboat/Entities/IncomeSetting.php on line 7
+[27-Apr-2021 12:48:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Ezyboat/Entities/RouteOperation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Ezyboat/Entities/RouteOperation.php on line 7
+[28-Apr-2021 10:25:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Ezyboat/Entities/BoatTrip.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Ezyboat/Entities/BoatTrip.php on line 7
+[28-Apr-2021 16:09:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Ezyboat/Entities/RouteProduct.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Ezyboat/Entities/RouteProduct.php on line 7

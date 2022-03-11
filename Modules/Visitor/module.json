@@ -1,0 +1,16 @@
+{
+    "name": "Visitor",
+    "alias": "Visitor",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Visitor\\Providers\\VisitorServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

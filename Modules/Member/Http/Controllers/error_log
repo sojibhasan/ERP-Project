@@ -1,0 +1,4 @@
+[21-Apr-2021 17:19:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/Member/Http/Controllers/MemberController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Member/Http/Controllers/MemberController.php on line 17

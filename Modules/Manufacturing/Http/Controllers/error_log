@@ -1,0 +1,4 @@
+[20-Apr-2021 18:24:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/Manufacturing/Http/Controllers/InstallController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Manufacturing/Http/Controllers/InstallController.php on line 14

@@ -1,0 +1,4 @@
+[23-Apr-2021 02:14:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/vimi2/public_html/Modules/MPCS/Providers/MPCSServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/MPCS/Providers/MPCSServiceProvider.php on line 8

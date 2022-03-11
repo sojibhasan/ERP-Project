@@ -1,0 +1,4 @@
+[26-Apr-2021 20:35:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/Leads/Http/Controllers/LeadsController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Leads/Http/Controllers/LeadsController.php on line 18

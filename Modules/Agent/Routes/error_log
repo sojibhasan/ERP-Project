@@ -1,0 +1,8 @@
+[29-Apr-2021 02:01:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/vimi2/public_html/Modules/Agent/Routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Agent/Routes/api.php on line 16
+[29-Apr-2021 03:36:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/vimi2/public_html/Modules/Agent/Routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Agent/Routes/web.php on line 14

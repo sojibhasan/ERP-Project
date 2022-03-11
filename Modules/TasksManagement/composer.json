@@ -1,0 +1,25 @@
+{
+    "name": "twf/tasksmanagement",
+    "description": "",
+    "authors": [
+        {
+            "name": "The Web Fosters",
+            "email": "thewebfosters@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\TasksManagement\\Providers\\TasksManagementServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\TasksManagement\\": ""
+        }
+    }
+}

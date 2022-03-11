@@ -1,0 +1,13 @@
+{
+    "name": "Fleet",
+    "alias": "fleet",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Fleet\\Providers\\FleetServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

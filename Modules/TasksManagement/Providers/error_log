@@ -1,0 +1,4 @@
+[24-Apr-2021 06:48:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/vimi2/public_html/Modules/TasksManagement/Providers/TasksManagementServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/TasksManagement/Providers/TasksManagementServiceProvider.php on line 8

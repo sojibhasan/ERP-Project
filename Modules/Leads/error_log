@@ -1,0 +1,4 @@
+[27-Apr-2021 22:44:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function app() in /home/vimi2/public_html/Modules/Leads/start.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Leads/start.php on line 14

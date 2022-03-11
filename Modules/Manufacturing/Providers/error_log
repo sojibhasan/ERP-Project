@@ -1,0 +1,4 @@
+[20-Apr-2021 18:06:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/vimi2/public_html/Modules/Manufacturing/Providers/ManufacturingServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Manufacturing/Providers/ManufacturingServiceProvider.php on line 10

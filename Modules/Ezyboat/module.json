@@ -1,0 +1,13 @@
+{
+    "name": "Ezyboat",
+    "alias": "ezyboat",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Ezyboat\\Providers\\EzyboatServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

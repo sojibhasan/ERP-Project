@@ -1,0 +1,16 @@
+[26-Apr-2021 23:38:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Leads/Entities/Lead.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Leads/Entities/Lead.php on line 8
+[26-Apr-2021 23:38:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Leads/Entities/Town.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Leads/Entities/Town.php on line 8
+[26-Apr-2021 23:39:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Leads/Entities/District.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Leads/Entities/District.php on line 8
+[26-Apr-2021 23:39:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Leads/Entities/LeadsCategory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Leads/Entities/LeadsCategory.php on line 8

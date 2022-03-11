@@ -1,0 +1,8 @@
+[29-Apr-2021 00:44:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/vimi2/public_html/Modules/Agent/Providers/AgentServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Agent/Providers/AgentServiceProvider.php on line 8
+[29-Apr-2021 00:48:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/vimi2/public_html/Modules/Agent/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Agent/Providers/RouteServiceProvider.php on line 8

@@ -1,0 +1,31 @@
+[20-Apr-2021 12:46:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/vimi2/public_html/routes/install_r.php:12
+Stack trace:
+#0 /home/vimi2/public_html/routes/tenant.php(20): include_once()
+#1 {main}
+  thrown in /home/vimi2/public_html/routes/install_r.php on line 12
+[20-Apr-2021 13:01:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/vimi2/public_html/routes/install_r.php:12
+Stack trace:
+#0 /home/vimi2/public_html/routes/web.php(15): include_once()
+#1 {main}
+  thrown in /home/vimi2/public_html/routes/install_r.php on line 12
+[25-Apr-2021 16:44:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/vimi2/public_html/routes/install_r.php:12
+Stack trace:
+#0 /home/vimi2/public_html/routes/web.php(15): include_once()
+#1 {main}
+  thrown in /home/vimi2/public_html/routes/install_r.php on line 12
+[25-Apr-2021 17:02:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/vimi2/public_html/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/routes/api.php on line 16
+[26-Apr-2021 05:59:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/vimi2/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/routes/console.php on line 16
+[26-Apr-2021 06:08:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/vimi2/public_html/routes/install_r.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/routes/install_r.php on line 12
+[27-Apr-2021 20:51:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/vimi2/public_html/routes/channels.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/routes/channels.php on line 18

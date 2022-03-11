@@ -1,0 +1,1 @@
+[2021-12-05 17:06:26] local.EMERGENCY: File:/home/vimi510/public_html/pet/app/Http/Controllers/StockAdjustmentController.phpLine:222Message:Undefined index: addjustment_type  

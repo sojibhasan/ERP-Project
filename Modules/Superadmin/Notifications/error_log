@@ -1,0 +1,8 @@
+[29-Apr-2021 00:02:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/vimi2/public_html/Modules/Superadmin/Notifications/SuperadminCommunicator.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Superadmin/Notifications/SuperadminCommunicator.php on line 10
+[29-Apr-2021 01:46:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/vimi2/public_html/Modules/Superadmin/Notifications/NewBusinessNotification.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Superadmin/Notifications/NewBusinessNotification.php on line 9

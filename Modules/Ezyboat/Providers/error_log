@@ -1,0 +1,8 @@
+[21-Apr-2021 16:07:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/vimi2/public_html/Modules/Ezyboat/Providers/EzyboatServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Ezyboat/Providers/EzyboatServiceProvider.php on line 8
+[28-Apr-2021 23:34:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/vimi2/public_html/Modules/Ezyboat/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Ezyboat/Providers/RouteServiceProvider.php on line 8

@@ -1,0 +1,88 @@
+[21-Apr-2021 16:41:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/HR/Http/Controllers/HolidayController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/HR/Http/Controllers/HolidayController.php on line 13
+[21-Apr-2021 16:42:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/HR/Http/Controllers/HRController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/HR/Http/Controllers/HRController.php on line 9
+[21-Apr-2021 16:43:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/HR/Http/Controllers/TaxController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/HR/Http/Controllers/TaxController.php on line 11
+[21-Apr-2021 16:43:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/HR/Http/Controllers/PrefixController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/HR/Http/Controllers/PrefixController.php on line 11
+[21-Apr-2021 16:44:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/HR/Http/Controllers/AttendanceController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/HR/Http/Controllers/AttendanceController.php on line 21
+[21-Apr-2021 16:44:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/HR/Http/Controllers/SalaryController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/HR/Http/Controllers/SalaryController.php on line 19
+[21-Apr-2021 16:45:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/HR/Http/Controllers/EmployeeController.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/HR/Http/Controllers/EmployeeController.php on line 32
+[21-Apr-2021 16:45:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/HR/Http/Controllers/WorkingDayController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/HR/Http/Controllers/WorkingDayController.php on line 11
+[21-Apr-2021 16:45:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/HR/Http/Controllers/NoticeBoardController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/HR/Http/Controllers/NoticeBoardController.php on line 13
+[21-Apr-2021 16:46:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/HR/Http/Controllers/HrSettingsController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/HR/Http/Controllers/HrSettingsController.php on line 19
+[21-Apr-2021 16:47:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/HR/Http/Controllers/ReportController.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/HR/Http/Controllers/ReportController.php on line 22
+[21-Apr-2021 16:47:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/HR/Http/Controllers/JobCategoryController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/HR/Http/Controllers/JobCategoryController.php on line 16
+[21-Apr-2021 16:47:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/HR/Http/Controllers/WorkShiftController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/HR/Http/Controllers/WorkShiftController.php on line 13
+[21-Apr-2021 16:48:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/HR/Http/Controllers/LeaveRequestController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/HR/Http/Controllers/LeaveRequestController.php on line 18
+[21-Apr-2021 16:48:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/HR/Http/Controllers/EmployeeAwardController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/HR/Http/Controllers/EmployeeAwardController.php on line 16
+[21-Apr-2021 16:48:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/HR/Http/Controllers/ReimbursementController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/HR/Http/Controllers/ReimbursementController.php on line 16
+[21-Apr-2021 16:49:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/HR/Http/Controllers/PayrollPaymentController.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/HR/Http/Controllers/PayrollPaymentController.php on line 27
+[21-Apr-2021 16:49:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/HR/Http/Controllers/DepartmentController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/HR/Http/Controllers/DepartmentController.php on line 16
+[21-Apr-2021 16:49:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/HR/Http/Controllers/SalaryComponentController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/HR/Http/Controllers/SalaryComponentController.php on line 12
+[21-Apr-2021 16:53:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/HR/Http/Controllers/SalrayGradeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/HR/Http/Controllers/SalrayGradeController.php on line 12
+[21-Apr-2021 16:55:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/HR/Http/Controllers/ApplicationController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/HR/Http/Controllers/ApplicationController.php on line 14
+[21-Apr-2021 16:56:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/HR/Http/Controllers/BasicSalaryController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/HR/Http/Controllers/BasicSalaryController.php on line 15

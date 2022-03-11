@@ -1,0 +1,4 @@
+[24-Apr-2021 18:08:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/vimi2/public_html/Modules/HR/Providers/HRServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/HR/Providers/HRServiceProvider.php on line 8

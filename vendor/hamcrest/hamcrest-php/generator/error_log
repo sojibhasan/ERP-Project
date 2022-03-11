@@ -1,0 +1,11 @@
+[21-Apr-2021 16:15:28 UTC] PHP Fatal error:  Uncaught Error: Class 'FactoryFile' not found in /home/vimi2/public_html/vendor/hamcrest/hamcrest-php/generator/GlobalFunctionFile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/hamcrest/hamcrest-php/generator/GlobalFunctionFile.php on line 7
+[21-Apr-2021 16:23:43 UTC] PHP Fatal error:  Uncaught Error: Class 'FactoryFile' not found in /home/vimi2/public_html/vendor/hamcrest/hamcrest-php/generator/StaticMethodFile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/hamcrest/hamcrest-php/generator/StaticMethodFile.php on line 7
+[21-Apr-2021 16:29:24 UTC] PHP Warning:  require(/home/vimi2/public_html/vendor/hamcrest/hamcrest-php/generator/../vendor/autoload.php): failed to open stream: No such file or directory in /home/vimi2/public_html/vendor/hamcrest/hamcrest-php/generator/run.php on line 6
+[21-Apr-2021 16:29:24 UTC] PHP Warning:  require(/home/vimi2/public_html/vendor/hamcrest/hamcrest-php/generator/../vendor/autoload.php): failed to open stream: No such file or directory in /home/vimi2/public_html/vendor/hamcrest/hamcrest-php/generator/run.php on line 6
+[21-Apr-2021 16:29:24 UTC] PHP Fatal error:  require(): Failed opening required '/home/vimi2/public_html/vendor/hamcrest/hamcrest-php/generator/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/vimi2/public_html/vendor/hamcrest/hamcrest-php/generator/run.php on line 6

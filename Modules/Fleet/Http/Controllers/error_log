@@ -1,0 +1,28 @@
+[22-Apr-2021 00:12:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/Fleet/Http/Controllers/SettingController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Fleet/Http/Controllers/SettingController.php on line 16
+[22-Apr-2021 03:40:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/Fleet/Http/Controllers/RouteController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Fleet/Http/Controllers/RouteController.php on line 20
+[22-Apr-2021 04:09:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/Fleet/Http/Controllers/FleetController.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Fleet/Http/Controllers/FleetController.php on line 25
+[22-Apr-2021 05:34:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/Fleet/Http/Controllers/IncomeController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Fleet/Http/Controllers/IncomeController.php on line 18
+[23-Apr-2021 14:52:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/Fleet/Http/Controllers/RouteProductController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Fleet/Http/Controllers/RouteProductController.php on line 17
+[23-Apr-2021 18:29:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/Fleet/Http/Controllers/RouteOperationController.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Fleet/Http/Controllers/RouteOperationController.php on line 31
+[24-Apr-2021 23:13:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/vimi2/public_html/Modules/Fleet/Http/Controllers/RouteInvoiceNumberController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Fleet/Http/Controllers/RouteInvoiceNumberController.php on line 17

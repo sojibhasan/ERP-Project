@@ -1,0 +1,20 @@
+[22-Apr-2021 19:08:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/TasksManagement/Entities/Note.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/TasksManagement/Entities/Note.php on line 9
+[23-Apr-2021 21:10:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/TasksManagement/Entities/Task.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/TasksManagement/Entities/Task.php on line 8
+[23-Apr-2021 21:22:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/TasksManagement/Entities/Reminder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/TasksManagement/Entities/Reminder.php on line 8
+[23-Apr-2021 21:29:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/TasksManagement/Entities/TaskGroup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/TasksManagement/Entities/TaskGroup.php on line 8
+[23-Apr-2021 21:48:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/TasksManagement/Entities/Priority.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/TasksManagement/Entities/Priority.php on line 8

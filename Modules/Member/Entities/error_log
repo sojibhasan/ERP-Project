@@ -1,0 +1,8 @@
+[23-Apr-2021 05:52:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Member/Entities/Suggestion.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Member/Entities/Suggestion.php on line 9
+[24-Apr-2021 18:08:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Member/Entities/Balamandalaya.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Member/Entities/Balamandalaya.php on line 8

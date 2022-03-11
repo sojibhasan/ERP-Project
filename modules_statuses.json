@@ -1,0 +1,18 @@
+{
+    "TestNew": true,
+    "HR": true,
+    "Leads": true,
+    "MPCS": true,
+    "Manufacturing": true,
+    "Member": true,
+    "Petro": true,
+    "Ran": true,
+    "SMS": true,
+    "Superadmin": true,
+    "TasksManagement": true,
+    "Repair": true,
+    "ProductCatalogue": true,
+    "Visitor": true,
+    "Property": true,
+    "PayRoll": true
+}
